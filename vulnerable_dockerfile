@@ -39,3 +39,6 @@ CMD ["python3", "app.py"]
 # No health checks
 # No security scanning
 # No minimal base image
+
+trigger the scanner
+#now!
