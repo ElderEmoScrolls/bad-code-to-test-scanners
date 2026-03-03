@@ -1,0 +1,39 @@
+devsecops-bad-lab/
+
+├── app-python/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── .env
+
+├── app-node/
+│   ├── server.js
+│   ├── package.json
+│   └── package-lock.json
+
+├── docker/
+│   └── Dockerfile
+
+├── terraform/
+│   └── main.tf
+
+├── k8s/
+│   └── deployment.yaml
+
+├── helm/
+│   └── Chart.yaml
+│   └── values.yaml
+
+├── ci/
+│   └── github-actions.yml
+
+├── nginx/
+│   └── nginx.conf
+
+├── scripts/
+│   └── deploy.sh
+
+├── secrets/
+│   └── fake.pem
+│   └── config.log
+
+└── README.md
