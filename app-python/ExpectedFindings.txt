@@ -1,0 +1,3 @@
+**Coming Soon**
+These Files will contain the expected findings of each archetype. 
+Note: I am not a dev by nature and using AI to generate bad configs and code to help assess SAST / DAST / Ect tooling with known bad code
